@@ -1,27 +1,92 @@
-# 💫 About Me:
-I'm Muhammad Shahzaib, a self-taught Python developer from Pakistan with a passion for building intelligent, automated solutions. I’m currently working on a real-world management software system for a company to streamline their operations and improve efficiency.<br><br>Previously, I worked as a Junior Software Engineer at Premax Arts and Designs, where I contributed to client-focused solutions through automation and backend development.<br><br>I'm committed to daily coding, continuous learning, and my long-term goal of launching DreamTechX — a company focused on solving real-world problems through custom software and AI tools.
 
+<h1 align="center">Hi, I'm Muhammad Shahzaib 👋</h1>
+<h3 align="center">Python Developer | Junior Software Engineer | AI & Automation Enthusiast</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/code_with_shahzaib/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@CodeWithShahzaib24) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codewithshahzaib@gmail.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=code-with-shahzaib&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-shahzaib&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=code-with-shahzaib&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=code-with-shahzaib&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-with-shahzaib&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shahzaib&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=code-with-shahzaib&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+👨‍💻 I'm a self-taught Python developer from Pakistan, passionate about creating intelligent tools and automation software.
+
+💼 Previously worked as a **Junior Software Engineer** at Premax Arts and Designs, contributing to backend and automation systems.
+
+🧠 Currently building a **real-world management system** for a client to automate their operations using Python.
+
+🌟 Founder in progress: **DreamTechX** — aiming to help individuals and businesses solve real-world problems through custom software and AI tools.
+
+📆 I’ve committed to **daily contributions** to grow my skills and share my journey — _One streak at a time._
+
+---
+
+## 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🔥 Daily Practice Progress
+
+📌 I solve **two Python problems daily** and push my solutions to the repo below to track my streak and growth:
+
+👉 [Python Practice Series Repo](https://github.com/code-with-shahzaib/python-problem-series)
+
+---
+
+## 🧠 Current Focus
+
+- Building a real-world **business management software**
+- Deepening Python and automation skills
+- Learning advanced data handling, APIs, and basic AI concepts
+
+---
+
+## 🛡 DreamTechX — Future Vision
+
+> "Automate. Innovate. Dominate."
+
+🚀 I'm laying the foundation of **DreamTechX**, a future tech startup focused on delivering:
+- Custom software for businesses
+- AI assistants and automations
+- Smart, real-world problem-solving tools
+
+---
+
+## 📬 Connect With Me
+
+<p>
+  <a href="https://github.com/code-with-shahzaib"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/code_with_shahzaib/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
+</p>
+
+---
+
+## ☕ Support My Journey
+
+If you find my work helpful or inspiring, consider following me and giving a ⭐ to my repositories. Every contribution counts!
+
+---
+
+<!-- Footer Badge (optional) -->
+<p align="center">
+  <i>Made with ❤️ by Muhammad Shahzaib</i>
+</p>
