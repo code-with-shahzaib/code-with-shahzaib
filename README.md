@@ -1,10 +1,24 @@
-
 <h1 align="center">Hi, I'm Muhammad Shahzaib 👋</h1>
 <h3 align="center">Python Developer | Junior Software Engineer | AI & Automation Enthusiast</h3>
 
+<!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=code-with-shahzaib&label=Profile+Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+<!-- GitHub Streak -->
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shahzaib&theme=radical" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-with-shahzaib&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -31,14 +45,6 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ---
@@ -74,7 +80,7 @@
 
 <p>
   <a href="https://github.com/code-with-shahzaib"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:codewithshahzaib@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/code_with_shahzaib/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" /></a>
 </p>
 
