@@ -16,10 +16,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=code-with-shahzaib&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
-</p>
 
 ---
 
