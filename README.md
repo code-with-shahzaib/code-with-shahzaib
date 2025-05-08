@@ -11,15 +11,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shahzaib&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=code-with-shahzaib&theme=radical&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
