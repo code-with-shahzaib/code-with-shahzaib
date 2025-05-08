@@ -8,28 +8,33 @@
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shahzaib&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-shahzaib&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 <!-- GitHub Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=code-with-shahzaib&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=code-with-shahzaib&theme=radical&column=7" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 🚀 About Me
 
-👨‍💻 I'm a self-taught Python developer from Pakistan, passionate about creating intelligent tools and automation software.
+👨‍💻 I'm a self-taught Python developer from Pakistan, with a passion for creating intelligent tools, automation software, and AI systems.
 
-💼 Previously worked as a **Junior Software Engineer** at Premax Arts and Designs, contributing to backend and automation systems.
+💼 Previously worked as a **Junior Software Engineer** at Premax Arts and Designs, where I contributed to backend development and automation systems.
 
-🧠 Currently building a **real-world management system** for a client to automate their operations using Python.
+🧠 Currently developing a **real-world business management system** for a client, automating operations using Python and AI.
 
-🌟 Founder in progress: **DreamTechX** — aiming to help individuals and businesses solve real-world problems through custom software and AI tools.
+🌟 Founder in progress of **DreamTechX**, an emerging tech startup aimed at providing businesses and individuals with custom software and AI-powered solutions to solve real-world challenges.
 
-📆 I’ve committed to **daily contributions** to grow my skills and share my journey — _One streak at a time._
+📆 I'm committed to **daily contributions** to continuously grow my skills and share my journey — _One streak at a time._
 
 ---
 
@@ -55,9 +60,9 @@
 
 ## 🧠 Current Focus
 
-- Building a real-world **business management software**
-- Deepening Python and automation skills
-- Learning advanced data handling, APIs, and basic AI concepts
+- Building a **real-world business management system** for a client.
+- Mastering **advanced Python, automation, and AI concepts**.
+- Exploring **data handling, APIs, and machine learning** to enhance my skill set.
 
 ---
 
@@ -65,10 +70,10 @@
 
 > "Automate. Innovate. Dominate."
 
-🚀 I'm laying the foundation of **DreamTechX**, a future tech startup focused on delivering:
-- Custom software for businesses
-- AI assistants and automations
-- Smart, real-world problem-solving tools
+🚀 Laying the foundation for **DreamTechX**, a tech startup dedicated to:
+- Providing **custom software** solutions to businesses.
+- Creating **AI assistants and automations** to increase productivity.
+- Developing **smart tools** that solve real-world challenges.
 
 ---
 
